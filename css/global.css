@@ -1,0 +1,195 @@
+.top_bar{
+	height: 26px;
+	background-color: #f2f2f2;
+	font-size: 12px;
+	line-height: 28px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.top_bar_content{
+	width: 1190px;
+	margin: 0 auto;
+	font-size: 12px;
+}
+.top_bar_content a, .top_bar_content span{
+	color: #999999;
+}
+.top_bar_left{
+	width: 311px;
+	height: 26px;
+}
+.top_bar_right{
+	width: 627px;
+	height: 26px;
+}
+.homepage{
+	float: left;
+	width: 62px;
+	margin-right: 20px;
+}
+.homepage_pic{
+	float: left;
+	width: 13px;
+	height: 11px;
+	background: url(../img/png24.jpg) no-repeat;
+	background-position: 0 0;
+	margin-top: 8px;
+	margin-right: 1px;
+}
+.homepage_text{
+	float: left;
+}
+.welcome{
+	width: 84px;
+	float: left;
+	margin-right: 20px;
+}
+.enter{
+	float: left;
+	width: 36px;
+	margin-right: 20px;
+}
+.register{
+	width: 48px;
+	float: left;
+}
+.mytaobao{
+	width: 56px;
+	float:left;
+	margin-right: 17px;
+}
+.mytaobao_text{
+	width: 48px;
+	float: left;
+}
+.mytaobao_pic{
+	float: right;
+	width: 6px;
+	height: 3px;
+	background: url(../img/png24.jpg) no-repeat;
+	background-position: 0 -16px;
+	margin-top: 12px;
+}
+.attention{
+	float: left;
+	width: 86px;
+	height: 26px;
+	margin-right: 21px;
+}
+.attention_pic{
+	float: left;
+	width: 11px;
+	height: 10px;
+	background: url(../img/png24.jpg) no-repeat;
+	background-position: 0 -19px;
+	margin-top: 8px;
+}
+.attention_text{
+	width: 72px;
+	float: right;
+}
+.shopping{
+	float: left;
+	width: 74px;
+	height: 26px;
+	margin-right: 22px;
+}
+.shopping_pic{
+	float: left;
+	width: 12px;
+	height: 12px;
+	background: url(../img/png24.jpg) no-repeat;
+	background-position: 0 -29px;
+	margin-top: 7px;
+}
+.shopping_text{
+	float: right;
+}
+.shopping_text em{
+	font-style: normal;
+	color: #666666;
+	font-family: arial;
+}
+.favorite{
+	float: left;
+	width: 44px;
+}
+.favorite_text{
+	float: left;
+}
+.favorite_pic{
+	float: right;
+	width: 6px;
+	height: 3px;
+	background: url(../img/png24.jpg) no-repeat;
+	background-position: 0 -16px;
+	margin-top: 12px;
+}
+.top_bar_right_ico{
+	font-size: 14px;
+	float: left;
+	line-height: 26px;
+	margin-left: 9px;
+	margin-right: 11px;
+}
+.phone{
+	float: left;
+	width: 49px;
+	height: 26px;
+	margin-right: 21px;
+}
+.phone_pic{
+	float: left;
+	width: 8px;
+	height: 12px;
+	background: url(../img/png24.jpg) no-repeat;
+	background-position: 0 -42px;
+	margin-top: 8px;
+}
+.phone_text{
+	float: right;
+}
+.Taobao{
+	width: 36px;
+	float: left;
+	margin-right: 22px;
+}
+.merchant{
+	width: 56px;
+	float: left;
+	margin-right: 18px;
+}
+.merchant_text{
+	float: left;
+}
+.merchant_pic{
+	float: right;
+	width: 6px;
+	height: 3px;
+	background: url(../img/png24.jpg) no-repeat;
+	background-position: 0 -16px;
+	margin-top: 12px;
+}
+.inter_nav{
+	width: 78px;
+	float: left;
+}
+.inter_nav_pic1{
+	float: left;
+	width: 11px;
+	height: 11px;
+	background: url(../img/png24.jpg) no-repeat;
+	background-position: 0 -55px;
+	margin-top: 8px;
+	margin-right: 4px;
+}
+.inter_nav_pic2{
+	float: right;
+	width: 6px;
+	height: 3px;
+	background: url(../img/png24.jpg) no-repeat;
+	background-position: 0 -16px;
+	margin-top: 12px;
+}
+.inter_nav_text{
+	float: left;
+}

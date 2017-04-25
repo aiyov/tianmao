@@ -1,0 +1,22 @@
+body, h1, h2, h3, h4, h5, dl, dd{
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
+input{
+	padding: 0;
+}
+.type_list{
+	width: 190px;
+	background-color: #2d2d2d;
+}

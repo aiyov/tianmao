@@ -1,0 +1,87 @@
+.mytaobao_pic, .attention_pic, .shopping_pic, .favorite_pic, .phone_pic, .merchant_pic, .inter_nav_pic2, .inter_nav_pic1{
+	overflow: hidden;
+}
+.header_search_center{
+	display: inline;
+}
+.market_pic{
+	overflow: hidden;
+}
+.type_list_item li, .type_list li span{
+	overflow: hidden;
+}
+.type_list li{
+	vertical-align: top;
+}
+.type_list .hover_ico{
+	overflow: hidden;
+}
+.type_list .display .hover_ico{
+	display: block;
+}
+.type_list .display{
+	background-color: #4a4a4a;
+}
+.hot{
+	overflow: hidden;
+}
+.brand_change a{
+	_vertical-align: top;
+}
+.brand_center .brand_item{
+	_display: inline;
+}
+.floor_brand_item{
+	display: inline;
+}
+.floor_type{
+	_display: inline;
+	_zoom: 1;
+}
+.floor_brand_item{
+	display: inline;
+}
+.floor_brand_item2{
+	display: inline;
+}
+.floor_left, .floor_center, .floor_right_item1, .floor_right_item1{
+	_display: inline;
+}
+#book .floor_brand_info2 dt{
+	_overflow: hidden;
+}
+.nomargin{
+	margin-right: 0;
+}
+.company span{
+	line-height: 20px;
+}
+.tmall, .shop_car span, .add, .star, .time, .chong, .note, .saom{
+	overflow: hidden;
+} 
+.side{
+	/*_position: absolute;
+	_right: 0;
+	_top: expression(eval(document.documentElement.scrollTop+0));*/
+	height: 768px;
+	_position: absolute; 
+	_bottom: auto; 
+	_top: expression(eval(document.documentElement.scrollTop
+	+document.documentElement.clientHeight-this.offsetHeight
+	-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0))); 
+}
+.tmall{
+	margin-top: 250px;
+}
+.note{
+	margin-top: 85px;
+}
+.type_list li a:hover{
+	background-color: #4a4a4a;
+}
+body｛
+	background-attachment：fixed;
+    background-image：url（about：blank）；
+  ｝
+/*商品页*/
+
